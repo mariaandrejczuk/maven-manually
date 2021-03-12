@@ -1,0 +1,7 @@
+    <project>
+      <modelVersion>4.0.0</modelVersion>
+     
+      <groupId>pl.szymonleyk.crm</groupId>  //system = CRM
+      <artifactId>email-service</artifactId>  //pierwsza aplikacja naleząca do systemu CRM
+      <version>1</version>
+    </project>
